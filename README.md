@@ -4,9 +4,9 @@
 
 
 ## To-do-list:
-### Make support for matrices
-- Operator overloading(?)
-- Maybe make support for tensors, i.e. matrices larger than 2D. Not needed for a classical neural network, but can't hurt to have
+### Handle matrices - MAYBE JUST USE LibTorch to skip this step
+- Make support for matrices
+- Operator overloading in terms of +, -, and * to begin with
 
 
 ### Make class for the neural network itself
