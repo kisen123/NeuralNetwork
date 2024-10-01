@@ -19,4 +19,5 @@
 
 ### Handle the prediction layer
 
-- More to come...
+### Lessons learned
+- Matrix computations should be written in CUDA
